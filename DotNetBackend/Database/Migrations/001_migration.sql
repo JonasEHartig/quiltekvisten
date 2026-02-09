@@ -1,0 +1,3 @@
+﻿CREATE TABLE IF NOT EXISTS quiltekvisten (
+	job_id UUID PRIMARY KEY
+);
