@@ -1,0 +1,6 @@
+@quiltekvisten_HostAddress = http://localhost:5123
+
+GET {{quiltekvisten_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
